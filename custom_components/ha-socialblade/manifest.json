@@ -3,5 +3,7 @@
   "name": "Social Blade",
   "documentation": "https://www.home-assistant.io/integrations/socialblade",
   "requirements": ["socialbladeclient==0.5"],
-  "codeowners": []
+  "codeowners": ["@ryanjohnsontv"],
+  "version": "v0.0.1",
+  "config_flow": true
 }
